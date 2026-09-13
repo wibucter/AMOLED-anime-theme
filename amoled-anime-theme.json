@@ -1,6 +1,6 @@
 {
-  "name": "AMOLED background theme",
-  "description": "AMOLED background theme",
+  "name": "AMOLED Mabel theme",
+  "description": "AMOLED Mabel theme",
   "authors": [
     {
       "name": "wibucter69",
@@ -237,7 +237,7 @@
   "background": {
     "url": "https://github.com/wibucter/AMOLED-anime-theme/raw/refs/heads/main/IMG_20260723_114725.png",
     "blur": 0.5,
-    "alpha": 0.9,
+    "alpha": 0.5,
     "size": "cover",
     "position": "center"
   },
@@ -246,6 +246,6 @@
     "iconpack": "solar"
   },
   "spec": 2,
-  "createdAt": "2025-10-05",
+  "createdAt": "2026-09-13",
   "source": "local"
 }
